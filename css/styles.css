@@ -1,0 +1,88 @@
+.main
+{
+    background-color: darkcyan;
+    height: 38em;
+    width: 80em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}   
+.eje1
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.boton1
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton2
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton3
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton4
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton5
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton6
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton7
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.boton8
+{
+    padding: 2em;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: darkorchid;
+}
+.barra
+{
+    border-radius: 10%;
+    display: flex;
+    background-color: darkorchid;
+    justify-content: center;
+    width: 30em;
+}
+
